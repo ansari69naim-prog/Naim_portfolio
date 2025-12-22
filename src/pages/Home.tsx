@@ -168,7 +168,7 @@ const Home = () => {
 
         <div className="hero-image">
           <div className="hero-image-placeholder">
-            {/* <img src={rajeshImage} alt="Naimuddin" /> */}
+            <img src={rajeshImage} alt="Naimuddin" />
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@ const Home = () => {
       <div className="home-about-section">
         <div className="home-about-content">
           <div className="home-about-image">
-            {/* <img src={Medianaim} alt="About Naimuddin" /> */}
+            <img src={Medianaim} alt="About Naimuddin" />
           </div>
           <div className="home-about-text">
             <span className="section-label">ABOUT ME</span>
