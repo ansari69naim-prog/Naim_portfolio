@@ -167,7 +167,7 @@ const Home = () => {
 
         <div className="hero-image">
           <div className="hero-image-placeholder">
-            <img src={rajeshImage} alt="Naimuddin" />
+            <img src={rajeshImagep} alt="Naimuddin" />
           </div>
         </div>
       </div>
