@@ -2749,7 +2749,7 @@
   font-size: 1.8rem;
   margin-bottom: 2rem;
   text-align: center;
-} text-align: center;
+ text-align: center;
 }
 
 .skills-bars {
@@ -2790,7 +2790,7 @@
   background: linear-gradient(90deg, #00ff88, #00cc6a);
   border-radius: 10px;
   transition: width 1s ease-in-out;
-} transition: width 1s ease-in-out;
+ transition: width 1s ease-in-out;
 }
 
 .skills-categories {
@@ -2813,7 +2813,7 @@
   color: white;
   margin-bottom: 1rem;
   font-size: 1.2rem;
-} font-size: 1.2rem;
+font-size: 1.2rem;
 }
 
 .category-items {
@@ -2828,7 +2828,6 @@
   border-radius: 4px;
   font-size: 0.9rem;
   border: 1px solid rgba(0, 255, 136, 0.3);
-} border: 1px solid #e0e0e0;
 }
 
 /* Awards Page Styles */
@@ -2842,7 +2841,7 @@
   font-size: 1.8rem;
   margin-bottom: 2rem;
   text-align: center;
-} text-align: center;
+ text-align: center;
 }
 
 .awards-list {
