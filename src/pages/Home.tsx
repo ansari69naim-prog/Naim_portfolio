@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import rajeshImage from "../assets/images/naim.jpeg";
+import { useEffect, useState } from "react";
 import rajeshImagep from "../assets/images/1336AD3B-8479-4BE9-8990-BED59ACB9F47_4_5005_c.jpeg";
 import Medianaim from "../assets/images/Media.jpeg";
 
@@ -62,7 +61,7 @@ const Home = () => {
   }
 
   function closeModal() {
-    setPlatformModal({ open: false, project: "", ios: "", android: "" });
+    setPlatformModal({ open: false, project: "", ios: "", android: "", logo: "" });
   }
 
   return (

@@ -1,6 +1,13 @@
-import React from 'react';
+import { ReactNode } from 'react';
 
-const Button = ({ children, onClick, variant = 'primary', ...props }) => {
+interface ButtonProps {
+  children: ReactNode;
+  onClick?: () => void;
+  variant?: 'primary' | 'secondary';
+  [key: string]: any;
+}
+
+const Button = ({ children, onClick, variant = 'primary', ...props }: ButtonProps) => {
   return (
     <button 
       className={`btn btn-${variant}`} 
