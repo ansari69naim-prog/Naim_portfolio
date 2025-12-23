@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import rajeshImagep from "../assets/images/1336AD3B-8479-4BE9-8990-BED59ACB9F47_4_5005_c.jpeg";
+// import rajeshImagep from "../assets/images/1336AD3B-8479-4BE9-8990-BED59ACB9F47_4_5005_c.jpeg";
 import Medianaim from "../assets/images/Media.jpeg";
 import naim from "../assets/images/naim.jpeg";
 import Projectfirst from "../assets/images/Flipshotz.png";
